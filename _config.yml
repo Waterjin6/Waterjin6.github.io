@@ -1,40 +1,62 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Crack The Code | Sujin's CS Portfolio
+title: Crack the Code | Sujin's CS Portfolio
+description: Sujin's Project Archieve
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Kotlin
+  - Node.js
+  - HTML/CSS
+  - C++
+  - Server
+  - MySQL
+  - Java
+  - JavaScript
+  - Python
+  - Blockchain
+  - Book
+  - Android
+  - express
+  - vue
+  - PM
+  - UX/UI
+  - completed
+  - stopped
+  - launched
+  - ★☆☆
+  - ★★☆
+  - ★★★
 show_hero: true
 menu:
-  - title: Home
+  - title: HOME
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+  - title : ABOUT
+    url : /about
+  - title: APP
+    url: /category/app
+  - title: WEB
+    url: /category/web
+  - title: GAME
+    url: /category/game
+  - title : RESEARCH
+    url : /category/research
+  - title : BLOG
+    url : /category/blog
+email: waterjin326@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: 
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: 
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: Waterjin6
+facebook_username: 
+twitter_username: 
+instagram_username: 
+linkedin_username: sujin-k-3948331b0
+medium_username: 
 
 
 # Posts Settings
