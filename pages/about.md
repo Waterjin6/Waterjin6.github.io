@@ -33,11 +33,14 @@ and Maintenance (intermediate level) • Nginx(intermediate level) • Ubuntu(in
 ## Projects
 - Christmas Q25 : 25 question which organize your year / Web service
     (2022.06 ~ 2023.01)
-    : Participated as a Project Manager / Server building&maintenance / Back-end lead / Designer.
+    - Participated as a Project Manager / Server building&maintenance / Back-end lead / Designer.
     - Work hard for non-disruptive service.
 - Where to go : a festival/performance/exhibition recommendation / App service (2022.06 ~ )
-    : Participated as a Project Manager / Server building&maintenance / Back-end (single member)
+    - Participated as a Project Manager / Server building&maintenance / Back-end (single member)
     - Got award from [ 6th Open Cloud Platform-based Service Development Idea Contest ]
+- Better Me : Habit-tracking application that makes me better, Better Me / App service (2023.01 ~ )
+    - Participated as a Project Manager / Server building&maintenance / Back-end lead
+    - Successfully had Demo day and on the way to improve project more useful and productively.
 
 ## Leadership
 - President of init : IT development student club at Departure of Computer Engineering of Sungshin Women’s University (25 members) (2022)
