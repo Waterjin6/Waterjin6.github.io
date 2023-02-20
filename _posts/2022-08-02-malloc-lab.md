@@ -9,6 +9,7 @@ optimized_image: https://res.cloudinary.com/drgsu4lyo/image/upload/v1676904018/%
 category: study
 tags:
   - Data-Structure
+  - SSLAB
 author: Sujin
 paginate: true
 ---

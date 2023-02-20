@@ -21,7 +21,7 @@ paginate: true
 With this project, We got award from <a hrep = "http://paas-ta.co.kr/awardList_2022.jsp">6th Open Cloud Platform-based Service Development/Idea Contest</a><br/>
 We are planning to supplement and launch service using Naver Cloud credit we received.
 
-<h1>Detail</h1>
+<h1>Details</h1>
 Please check our Presentation materials and video! <br/>
 
 [Presentation Materials](https://drive.google.com/file/d/1EEUA896OdkQlWKVBl4lcozlyJMSzsAvD/view?usp=sharing) //
