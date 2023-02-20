@@ -2,16 +2,14 @@
 date: 2021-07-17 13:34:40
 layout: post
 title: Crystal sea's glass bottle
-subtitle: It's about Crystal sea's glass bottle
-description: It’s a program for anonymous chat. 
+subtitle: It’s a program for anonymous chat for Sungshin Women's University Students.
+description: It’s a program for Sungshin Women's University Students. 
 image: https://res.cloudinary.com/drgsu4lyo/image/upload/v1658032745/subau_za12ki.jpg
 optimized_image: https://res.cloudinary.com/drgsu4lyo/image/upload/v1658032745/subau_za12ki.jpg
 category: web
 tags:
   - Java
   - HTML/CSS
-  - completed
-  - ★★★
 author: Sujin
 paginate: true
 ---
@@ -35,3 +33,4 @@ writing letter
 <br/>
 
 [ppt link](https://docs.google.com/presentation/d/195OyRgyTYSzhBYNZoCkhvF09Q62b3MSB/edit?usp=sharing&ouid=107996054388202715571&rtpof=true&sd=true)
+[github](https://github.com/sungshinmailpj/subau)

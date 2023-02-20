@@ -35,12 +35,12 @@ menu:
     url: /category/app
   - title: WEB
     url: /category/web
-  - title: GAME
-    url: /category/game
+  - title: STUDY
+    url: /category/study
   - title : RESEARCH
     url : /category/research
-  - title : BLOG
-    url : /category/blog
+  - title : ACTIVITY
+    url : /category/activity
 email: waterjin326@gmail.com
 # See: https://disqus.com/
 disqus_username: 
