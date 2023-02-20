@@ -17,4 +17,10 @@ paginate: true
 I implemented Implicit/Explicit/Segregated List with First/Next/Best/Worst fit and explained these codes at SSLAB Seminar.<br/>
 Please check out the codes at my Notion.
 
-[SSLAB - Malloc Lab codes / Sujin Kang Notion](https://waterjin.notion.site/SSLAB-Malloc-Lab-4c035618a04345e88f09683a26efc0d6)
+<h1>Details</h1>
+
+[Report - Performance Evaluation](https://drive.google.com/file/d/1iHm4uth1MVBnExmbeBN6aj78rD8vmVI9/view?usp=sharing) //
+
+[SSLAB - Malloc Lab codes / Sujin Kang Notion](https://waterjin.notion.site/SSLAB-Malloc-Lab-4c035618a04345e88f09683a26efc0d6) //
+
+[Presentations](https://docs.google.com/presentation/d/1iaXYrcM3BsXhadlx0uESUKHvBtj3nZOdbdqDyismxMk/edit?usp=sharing)
