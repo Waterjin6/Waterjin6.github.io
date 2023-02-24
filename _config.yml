@@ -28,10 +28,10 @@ tags:
   - CloudFoundry
 show_hero: true
 menu:
-  - title: HOME
-    url: /
   - title : ABOUT
     url : /about
+  - title: HOME
+    url: /
   - title: FEATURED
     url: /category/featured
   - title: PROJECT
