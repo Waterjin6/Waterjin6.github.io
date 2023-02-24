@@ -8,7 +8,6 @@ image: https://res.cloudinary.com/drgsu4lyo/image/upload/v1676909398/%ED%99%94%E
 optimized_image: https://res.cloudinary.com/drgsu4lyo/image/upload/v1676909398/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2023-02-21_010940_mzemnm.jpg
 category: research
 tags:
-  - SSLAB
 author: Sujin
 paginate: true
 ---
