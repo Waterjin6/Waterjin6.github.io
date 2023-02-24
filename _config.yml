@@ -1,6 +1,6 @@
 # Site Settings
-name: Crack The Code | Sujin's CS Portfolio
-title: Crack the Code | Sujin's CS Portfolio
+name: Crack The Code | Sujin's Portfolio
+title: Crack the Code | Sujin's Portfolio
 description: Sujin's Project Archieve
 tags:
   - Kotlin
@@ -15,6 +15,7 @@ tags:
   - Data-Structure
   - Docker
   - Leadership
+  - Creative
   - Award
   - SSLAB
   - Book
@@ -23,22 +24,18 @@ tags:
   - vue
   - PM
   - UX/UI
-  - completed
-  - stopped
-  - launched
-  - ★☆☆
-  - ★★☆
-  - ★★★
+  - Launching
+  - CloudFoundry
 show_hero: true
 menu:
   - title: HOME
     url: /
   - title : ABOUT
     url : /about
-  - title: APP
-    url: /category/app
-  - title: WEB
-    url: /category/web
+  - title: FEATURED
+    url: /category/featured
+  - title: PROJECT
+    url: /category/project
   - title: STUDY
     url: /category/study
   - title : RESEARCH

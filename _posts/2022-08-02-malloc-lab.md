@@ -10,6 +10,7 @@ category: study
 tags:
   - Data-Structure
   - SSLAB
+  - Ubuntu
 author: Sujin
 paginate: true
 ---

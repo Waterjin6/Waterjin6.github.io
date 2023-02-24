@@ -6,13 +6,18 @@ subtitle: performance/festival/event recommendation application platform
 description: performance/festival/event recommendation application platform
 image: https://res.cloudinary.com/drgsu4lyo/image/upload/v1676881509/KakaoTalk_20230220_172324573_kyieyx.jpg
 optimized_image: https://res.cloudinary.com/drgsu4lyo/image/upload/v1676881509/KakaoTalk_20230220_172324573_kyieyx.jpg
-category: app
+category: featured
 tags:
+  - Award
   - Node.js
   - PM
   - Server
   - PaaS
   - Award
+  - MySQL
+  - Ubuntu
+  - Leadership
+  - CloudFoundry
 author: Sujin
 paginate: true
 ---

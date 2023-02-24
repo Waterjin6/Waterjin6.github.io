@@ -10,6 +10,7 @@ category: study
 tags:
   - Android
   - Kotlin
+  - Leadership
 author: Sujin
 paginate: true
 ---

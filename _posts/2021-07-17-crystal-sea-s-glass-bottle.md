@@ -6,10 +6,13 @@ subtitle: It’s a program for anonymous chat for Sungshin Women's University St
 description: It’s a program for Sungshin Women's University Students. 
 image: https://res.cloudinary.com/drgsu4lyo/image/upload/v1658032745/subau_za12ki.jpg
 optimized_image: https://res.cloudinary.com/drgsu4lyo/image/upload/v1658032745/subau_za12ki.jpg
-category: web
+category: featured
 tags:
+  - Award
   - Java
   - HTML/CSS
+  - Creative
+  - Web
 author: Sujin
 paginate: true
 ---
