@@ -16,6 +16,7 @@ paginate: true
 ---
 <h1>Summary</h1>
 I implemented Implicit/Explicit/Segregated List with First/Next/Best/Worst fit and explained these codes at SSLAB Seminar.<br/>
+And did Performance evaluation for each cases. (You can check the result at Report).</br>
 Please check out the codes at my Notion.
 
 <h1>Details</h1>
