@@ -29,11 +29,11 @@ and Maintenance (intermediate level)</a> • <a href = "https://waterjin6.github
 
 ## EXPERIENCE
 ### Projects
-- GAME : Mr.turtle's happy day (2020)
+- GAME : Mr.turtle's happy day (2020) <a href = "https://waterjin6.github.io/turtle-kim/">↗️</a>
 - RESEARCH : Blockchain Project / B-Mech (2020 ~ 2021)
-- WEB / Full-Stack : Crystal sea's glass bottle (2021) 
-- APP / Android : Unsubscribe it (2021 ~ 2022)
-- WEB / Node.js : Po-pete (2022)
+- WEB / Full-Stack : Crystal sea's glass bottle (2021) <a href = "https://waterjin6.github.io/crystal-sea-s-glass-bottle/">↗️</a>
+- APP / Android : Unsubscribe it (2021 ~ 2022) <a href = "https://waterjin6.github.io/haejihae/">↗️</a>
+- WEB / Node.js : Po-pete (2022) <a href = "https://waterjin6.github.io/po-pete/">↗️</a>
 - <b>APP / Node.js (single member), PM, Server : Where To Go (2022.06 ~) <a href = "https://waterjin6.github.io/where-to-go/">↗️</a></b>
     - Where To Go : the festival/performance/exhibition recommendation app
     - Got award from [ 6th Open Cloud Platform-based Service Development Idea Contest ]
@@ -80,7 +80,7 @@ MARCH 2020  - FEBRUARY 2024(Expected)<br/>
 <br/>
 
 ###### AWARDS
-- Useless Programming Contest : Mr.turtle's happy day - 2nd place award (2020)
+- Useless Programming Contest : Turtle Kim's Happy Day - 2nd place award (2020)
     - Student council of department of computer engineering,  Sungshin women’s university
 
 - Self-directed learning contest - the grand prize (2021)

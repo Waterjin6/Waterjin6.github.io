@@ -18,22 +18,24 @@ paginate: true
 ---
 
 
-It’s a program for anonymous chat. We limited user qualification by using school email certification. <br/>
+It’s a program for anonymous chat for Sungshin women's University student who couldn't meet well due to Covid situation. We did user qualification by using school email certification. <br/>
 
-Once user sign in, user get one’s nickname and match with other users so they can chat.
+Once users sign in, uses can be matched with other users so they can chat.
 <br/>
 I did Implementation of login, writing letter function, and sending e-mail function.
 <br/>
 
-main 
+<b>Main</b> 
 ![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1658033033/subau1_c6cykz.jpg "Large example image")
 
 <br/>
 
-writing letter
+<b>Writing letter</b>
 ![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1658033033/subau2_n31mol.jpg "Large example image")
 
 <br/>
+<h1>Details</h1>
+Please check out more details! <br/>
 
-[ppt link](https://docs.google.com/presentation/d/195OyRgyTYSzhBYNZoCkhvF09Q62b3MSB/edit?usp=sharing&ouid=107996054388202715571&rtpof=true&sd=true)
-[github](https://github.com/sungshinmailpj/subau)
+[Presentation](https://docs.google.com/presentation/d/195OyRgyTYSzhBYNZoCkhvF09Q62b3MSB/edit?usp=sharing&ouid=107996054388202715571&rtpof=true&sd=true) // 
+[Github](https://github.com/sungshinmailpj/subau)
