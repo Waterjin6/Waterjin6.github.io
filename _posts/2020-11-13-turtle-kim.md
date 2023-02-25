@@ -35,4 +35,4 @@ Got Award for Useless Programming Contest - 2nd
 
 <br/>
 
-[ppt link](https://docs.google.com/presentation/d/1BjRnsMoA-ogu8U3m6onHRZp1S8rxo4kW/edit?usp=sharing&ouid=107996054388202715571&rtpof=true&sd=true)
+[Presentation](https://docs.google.com/presentation/d/1BjRnsMoA-ogu8U3m6onHRZp1S8rxo4kW/edit?usp=sharing&ouid=107996054388202715571&rtpof=true&sd=true)

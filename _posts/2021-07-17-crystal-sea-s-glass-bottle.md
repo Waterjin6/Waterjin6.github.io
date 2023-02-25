@@ -37,5 +37,6 @@ I did Implementation of login, writing letter function, and sending e-mail funct
 <h1>Details</h1>
 Please check out more details! <br/>
 
+[Video](https://drive.google.com/file/d/1lYePRh8cVKLy-gpP41Rw82X18RsSnUlW/view?usp=sharing) //
 [Presentation](https://docs.google.com/presentation/d/195OyRgyTYSzhBYNZoCkhvF09Q62b3MSB/edit?usp=sharing&ouid=107996054388202715571&rtpof=true&sd=true) // 
 [Github](https://github.com/sungshinmailpj/subau)

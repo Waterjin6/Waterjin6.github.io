@@ -30,7 +30,7 @@ and Maintenance (intermediate level)</a> • <a href = "https://waterjin6.github
 ## EXPERIENCE
 ### Projects
 - GAME : Mr.turtle's happy day (2020) <a href = "https://waterjin6.github.io/turtle-kim/">↗️</a>
-- RESEARCH : Blockchain Project / B-Mech (2020 ~ 2021)
+- RESEARCH : Blockchain Project / B-Mech (2020 ~ 2021) <a href = "https://waterjin6.github.io/b-mech/">↗️</a>
 - WEB / Full-Stack : Crystal sea's glass bottle (2021) <a href = "https://waterjin6.github.io/crystal-sea-s-glass-bottle/">↗️</a>
 - APP / Android : Unsubscribe it (2021 ~ 2022) <a href = "https://waterjin6.github.io/haejihae/">↗️</a>
 - WEB / Node.js : Po-pete (2022) <a href = "https://waterjin6.github.io/po-pete/">↗️</a>
@@ -55,11 +55,6 @@ __Sungshin Women’s University__, seongbuk-gu, Seoul,<br/>
 Republic of Korea  — __Bachelor of Computer Engineering__<br/>
 MARCH 2020  - FEBRUARY 2024(Expected)<br/>
 
-<br/>
-<br/>
-
-
-
 
 <br/>
 <br/>
@@ -79,7 +74,7 @@ MARCH 2020  - FEBRUARY 2024(Expected)<br/>
 <br/>
 <br/>
 
-###### AWARDS
+### AWARDS
 - Useless Programming Contest : Turtle Kim's Happy Day - 2nd place award (2020)
     - Student council of department of computer engineering,  Sungshin women’s university
 
