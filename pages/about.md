@@ -45,7 +45,7 @@ and Maintenance (intermediate level)</a> • <a href = "https://waterjin6.github
 - <b>APP / Node.js, PM, Server : Better Me (2023.01 ~)<a href = "https://waterjin6.github.io/better-me/">↗️</a></b>
     - Better Me : Habit-tracking application that makes me better, Better Me
     - Successfully had Demo day and on the way to improve project more useful and productively.
-- RESEARCH : Korea Computer Congress 2023 / Paper accepted (2023.06) <a href = "https://waterjin6.github.io/2023-kcc/">↗️</a>
+- <b>RESEARCH : Korea Computer Congress 2023 / Paper accepted (2023.06) <a href = "https://waterjin6.github.io/2023-kcc/">↗️</a></b>
     - : Performance Analysis of Memory-intensive Workloads with HugePage in Container and Bare Metal
 Environment (https://drive.google.com/file/d/1NVPOcC7hS2qHU3Rv0C5veyFj1DDn-TOu/view?usp=sharing)
 
