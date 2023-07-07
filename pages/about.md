@@ -40,11 +40,15 @@ and Maintenance (intermediate level)</a> • <a href = "https://waterjin6.github
 - <b>WEB / Node.js - lead, PM, Server, Designer : Christmas Q25 (2022.06 ~ 2023.01) <a href = "https://waterjin6.github.io/christmas-q-25/">↗️</a></b>
     - Christmas Q25 : 25 question which organize your year
     - Actually lanched during December,2022 ~ January,2023. Work hard for non-disruptive service.
-- RESEARCH : Member of SSLAB of Sungshin women’s University (2022.07 ~ ) <a href = "https://waterjin6.github.io/tags/#sslab">↗️</a>
+- RESEARCH : Member of SSLAB of Sungshin women’s University (2022.07 ~ 2023.07) <a href = "https://waterjin6.github.io/tags/#sslab">↗️</a>
     - Studying about Container cold-start latency, HugePage, data structure, algorithm
 - <b>APP / Node.js, PM, Server : Better Me (2023.01 ~)<a href = "https://waterjin6.github.io/better-me/">↗️</a></b>
     - Better Me : Habit-tracking application that makes me better, Better Me
     - Successfully had Demo day and on the way to improve project more useful and productively.
+- RESEARCH : Korea Computer Congress 2023 / Paper accepted (2023.06) <a href = "https://waterjin6.github.io/2023-kcc/">↗️</a>
+    - : Performance Analysis of Memory-intensive Workloads with HugePage in Container and Bare Metal
+Environment (https://drive.google.com/file/d/1NVPOcC7hS2qHU3Rv0C5veyFj1DDn-TOu/view?usp=sharing)
+
 
 ### Leadership
 - President of init : IT development student club at Departure of Computer Engineering of Sungshin Women’s University (25 members) (2022)
