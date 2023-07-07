@@ -47,7 +47,7 @@ and Maintenance (intermediate level)</a> • <a href = "https://waterjin6.github
     - Successfully had Demo day and on the way to improve project more useful and productively.
 - <b>RESEARCH : Korea Computer Congress 2023 / Paper accepted (2023.06) <a href = "https://waterjin6.github.io/2023-kcc/">↗️</a></b>
     - : Performance Analysis of Memory-intensive Workloads with HugePage in Container and Bare Metal
-Environment (https://drive.google.com/file/d/1NVPOcC7hS2qHU3Rv0C5veyFj1DDn-TOu/view?usp=sharing)
+Environment / [Go to See Paper](https://drive.google.com/file/d/1exO50qzyZDu2Sp3R6gecf3kLRS-uvOS5/view?usp=sharing)
 
 
 ### Leadership
