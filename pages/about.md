@@ -45,7 +45,8 @@ and Maintenance (intermediate level)</a> • <a href = "https://waterjin6.github
 - <b>APP / Node.js, PM, Server : Better Me (2023.01 ~)<a href = "https://waterjin6.github.io/better-me/">↗️</a></b>
     - Better Me : Habit-tracking application that makes me better, Better Me
     - Successfully had Demo day and on the way to improve project more useful and productively.
-- <b>RESEARCH : Korea Computer Congress 2023 / Paper accepted (2023.06) <a href = "https://waterjin6.github.io/2023-kcc/">↗️</a></b>
+- <b>RESEARCH : Korea Computer Congress 2023 - High Performance Computing / Awarded (2023.06) <a href = "https://waterjin6.github.io/2023-kcc/">↗️</a></b>
+    - Paper accepted and won the encouragement award
     - : Performance Analysis of Memory-intensive Workloads with HugePage in Container and Bare Metal
 Environment / [Go to See Paper](https://drive.google.com/file/d/1exO50qzyZDu2Sp3R6gecf3kLRS-uvOS5/view?usp=sharing)
 
@@ -82,7 +83,7 @@ MARCH 2020  - FEBRUARY 2024(Expected)<br/>
 - Useless Programming Contest : Turtle Kim's Happy Day - 2nd place award (2020)
     - Student council of department of computer engineering,  Sungshin women’s university
 
-- Self-directed learning contest - the grand prize (2021)
+- Self-directed learning contest - the grand award (2021)
     - Sungshin women’s university
 
 - Software Contest : Crystal sea's glass bottle - 3rd place award (2021)
@@ -91,3 +92,7 @@ Sungshin women’s university
 
 - 6th Open Cloud Platform-based Service Development/Idea Contest : Where to go - special award (2022)
     - Korea Commercial Software Association
+
+- Korea Computer Congress 2023 - the undergraduate/junior papar contest : Performance Analysis of Memory-intensive Workloads with HugePage in Container and Bare Metal
+Environment - encouragement award (2023)
+    - Korea Computer Congress 2023
