@@ -47,7 +47,7 @@ and Maintenance (intermediate level)</a> • <a href = "https://waterjin6.github
     - Successfully had Demo day and on the way to improve project more useful and productively.
 - <b>RESEARCH : Korea Computer Congress 2023 - High Performance Computing / Awarded (2023.06) <a href = "https://waterjin6.github.io/2023-kcc/">↗️</a></b>
     - Paper accepted and won the encouragement award
-    - : Performance Analysis of Memory-intensive Workloads with HugePage in Container and Bare Metal
+    - Paper : Performance Analysis of Memory-intensive Workloads with HugePage in Container and Bare Metal
 Environment / [Go to See Paper](https://drive.google.com/file/d/1exO50qzyZDu2Sp3R6gecf3kLRS-uvOS5/view?usp=sharing)
 
 
@@ -63,23 +63,7 @@ MARCH 2020  - FEBRUARY 2024(Expected)<br/>
 
 <br/>
 <br/>
-
-### EXTRACURRICULAR
-( Type / Content / role / year ) 
-- Book Study / __Sujung Eating Book__ / Leader / 2020 
-- Dance Crew / __Hiption : School Central Dance Crew__ / Member / 2020~2021 
-- Coding Test Study / __Bettergrammers__ / Leader / 2021 ~ 2022 
-- Algorithm Study / __INIT : club for students of department of Computer Engineering in SSWU__ / Leader / 2022 
-- APP Launching Club / __University MakeUs Challenge - Sungshin Women's University__ / Vice-leader, Android Track / 2022 
-- APP Launching Club / __University MakeUs Challenge - Sungshin Women's University__ / Leader, Server-Node.js track / 2022
-- Mentoring / __WISET - Global Cross Mentoring__ / Mentee / 2022
-- Mentoring / __WISET - Developer Team Mentoring__ / Mentee / 2022
-
-
-<br/>
-<br/>
-
-### AWARDS
+## AWARDS
 - Useless Programming Contest : Turtle Kim's Happy Day - 2nd place award (2020)
     - Student council of department of computer engineering,  Sungshin women’s university
 
@@ -90,9 +74,22 @@ MARCH 2020  - FEBRUARY 2024(Expected)<br/>
     - department of computer engineering, school of AI convergence, Information Systems Engineering,
 Sungshin women’s university
 
-- 6th Open Cloud Platform-based Service Development/Idea Contest : Where to go - special award (2022)
+- <b>6th Open Cloud Platform-based Service Development/Idea Contest : Where to go - special award (2022)</b>
     - Korea Commercial Software Association
 
-- Korea Computer Congress 2023 - the undergraduate/junior papar contest : Performance Analysis of Memory-intensive Workloads with HugePage in Container and Bare Metal
-Environment - encouragement award (2023)
-    - Korea Computer Congress 2023
+- <b>Korea Computer Congress 2023 - the undergraduate/junior paper contest - encouragement award (2023)</b>
+    - Korea Computer Congress
+
+<br/>
+<br/>
+
+## EXTRACURRICULAR
+( Type / Content / role / year ) 
+- Book Study / __Sujung Eating Book__ / Leader / 2020 
+- Dance Crew / __Hiption : School Central Dance Crew__ / Member / 2020~2021 
+- Coding Test Study / __Bettergrammers__ / Leader / 2021 ~ 2022 
+- Algorithm Study / __INIT : club for students of department of Computer Engineering in SSWU__ / Leader / 2022 
+- APP Launching Club / __University MakeUs Challenge - Sungshin Women's University__ / Vice-leader, Android Track / 2022 
+- APP Launching Club / __University MakeUs Challenge - Sungshin Women's University__ / Leader, Server-Node.js track / 2022
+- Mentoring / __WISET - Global Cross Mentoring__ / Mentee / 2022
+- Mentoring / __WISET - Developer Team Mentoring__ / Mentee / 2022
