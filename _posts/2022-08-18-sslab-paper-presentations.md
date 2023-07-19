@@ -16,7 +16,7 @@ paginate: true
 [Notion page for research](https://waterjin.notion.site/Cold-Start-3a28c5ad12194b6b9f8e28a55a3138dd)
 
 <h1>Summary</h1>
-These ppt files were for Thesis presentations at SSLAB.<br/>
+These ppt files were for Paper presentations at SSLAB.<br/>
 I could learn a lot about Huge page, Container Cold-start etc.<br/>  
 
 <h1>PPT files</h1>
