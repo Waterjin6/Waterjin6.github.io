@@ -29,26 +29,35 @@ and Maintenance (intermediate level)</a> • <a href = "https://waterjin6.github
 
 ## EXPERIENCE
 ### Projects
-- GAME : Mr.turtle's happy day (2020) <a href = "https://waterjin6.github.io/turtle-kim/">↗️</a>
-- RESEARCH : Blockchain Project / B-Mech (2020 ~ 2021) <a href = "https://waterjin6.github.io/b-mech/">↗️</a>
-- WEB / Full-Stack : Crystal sea's glass bottle (2021) <a href = "https://waterjin6.github.io/crystal-sea-s-glass-bottle/">↗️</a>
-- APP / Android : Unsubscribe it (2021 ~ 2022) <a href = "https://waterjin6.github.io/haejihae/">↗️</a>
-- WEB / Node.js : Po-pete (2022) <a href = "https://waterjin6.github.io/po-pete/">↗️</a>
-- <b>APP / Node.js (single member), PM, Server : Where To Go (2022.06 ~) <a href = "https://waterjin6.github.io/where-to-go/">↗️</a></b>
-    - Where To Go : the festival/performance/exhibition recommendation app
-    - Got award from [ 6th Open Cloud Platform-based Service Development Idea Contest ]
-- <b>WEB / Node.js - lead, PM, Server, Designer : Christmas Q25 (2022.06 ~ 2023.01) <a href = "https://waterjin6.github.io/christmas-q-25/">↗️</a></b>
-    - Christmas Q25 : 25 question which organize your year
-    - Actually lanched during December,2022 ~ January,2023. Work hard for non-disruptive service.
-- RESEARCH : Member of SSLAB of Sungshin women’s University (2022.07 ~ 2023.07) <a href = "https://waterjin6.github.io/tags/#sslab">↗️</a>
-    - Studying about Container cold-start latency, HugePage, data structure, algorithm
-- <b>APP / Node.js, PM, Server : Better Me (2023.01 ~)<a href = "https://waterjin6.github.io/better-me/">↗️</a></b>
-    - Better Me : Habit-tracking application that makes me better, Better Me
-    - Successfully had Demo day and on the way to improve project more useful and productively.
 - <b>RESEARCH : Korea Computer Congress 2023 - High Performance Computing / Awarded (2023.06) <a href = "https://waterjin6.github.io/2023-kcc/">↗️</a></b>
     - Paper accepted and won the encouragement award
     - Paper : Performance Analysis of Memory-intensive Workloads with HugePage in Container and Bare Metal
 Environment / [Go to See Paper](https://drive.google.com/file/d/1exO50qzyZDu2Sp3R6gecf3kLRS-uvOS5/view?usp=sharing)
+
+- <b>APP / Node.js (single member), PM, Server : Where To Go (2022.06 ~) <a href = "https://waterjin6.github.io/where-to-go/">↗️</a></b>
+    - Where To Go : the festival/performance/exhibition recommendation app
+    - Got award from [ 6th Open Cloud Platform-based Service Development Idea Contest ]
+    - Registered in Google Play Store
+
+- <b>WEB / Node.js - lead, PM, Server, Designer : Christmas Q25 (2022.06 ~ 2023.01) <a href = "https://waterjin6.github.io/christmas-q-25/">↗️</a></b>
+    - Christmas Q25 : 25 question which organize your year
+    - Actually lanched during December,2022 ~ January,2023. Work hard for non-disruptive service.
+
+- APP / Node.js, PM, Server : Better Me (2023.01 ~ 2023.10)<a href = "https://waterjin6.github.io/better-me/">↗️</a>
+    - Better Me : Habit-tracking application that makes me better, Better Me
+
+- RESEARCH : Member of SSLAB of Sungshin women’s University (2022.07 ~ 2023.07) <a href = "https://waterjin6.github.io/tags/#sslab">↗️</a>
+    - Studying about Container cold-start latency, HugePage, data structure, algorithm
+
+- WEB / Node.js : Po-pete (2022) <a href = "https://waterjin6.github.io/po-pete/">↗️</a>
+
+- APP / Android : Unsubscribe it (2021 ~ 2022) <a href = "https://waterjin6.github.io/haejihae/">↗️</a>
+
+- WEB / Full-Stack : Crystal sea's glass bottle (2021) <a href = "https://waterjin6.github.io/crystal-sea-s-glass-bottle/">↗️</a>
+
+- RESEARCH : Blockchain Project / B-Mech (2020 ~ 2021) <a href = "https://waterjin6.github.io/b-mech/">↗️</a>
+
+- GAME : Mr.turtle's happy day (2020) <a href = "https://waterjin6.github.io/turtle-kim/">↗️</a>
 
 
 ### Leadership

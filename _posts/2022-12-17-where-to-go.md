@@ -25,7 +25,7 @@ paginate: true
 "Where to GO" is a performance/festival/event recommendation application platform using Tour API of Korea Tourism Organization.
 <br/>
 With this project, We got award from <a hrep = "http://paas-ta.co.kr/awardList_2022.jsp">6th Open Cloud Platform-based Service Development/Idea Contest</a><br/>
-We are planning to supplement and launch service using Naver Cloud credit we received.
+Registered in <a hrep = "https://play.google.com/store/apps/details?id=com.sjdev.wheretogo">Google Play Store</a><br/>
 
 <h1>Details</h1>
 Please check our Presentation materials and video! <br/>
