@@ -28,7 +28,21 @@ With this project, We got award from
 
 [6th Open Cloud Platform-based Service Development/Idea Contest](http://paas-ta.co.kr/awardList_2022.jsp)<br/>
 
-Registered in
+Registered in Google Play Store
+<br/>
+
+![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1700460355/KakaoTalk_20231105_211146037_zeeeri.png "pic")
+![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1700460353/KakaoTalk_20231105_135549153_01_ihzb89.jpg "pic")
+![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1700460352/KakaoTalk_20231105_135549153_lrgngj.jpg "pic")
+![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1700460353/KakaoTalk_20231105_135830189_oqzqov.jpg "pic")
+![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1700460353/KakaoTalk_20231105_135830189_01_jjntya.jpg "pic")
+![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1700460356/KakaoTalk_20231105_135830189_07_chun0c.jpg "pic")
+![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1700460355/KakaoTalk_20231105_135830189_06_qus3rq.jpg "pic")
+![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1700460354/KakaoTalk_20231105_135830189_02_ljk0tl.jpg "pic")
+![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1700460354/KakaoTalk_20231105_135830189_03_atmtrm.jpg "pic")
+![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1700460354/KakaoTalk_20231105_135830189_04_uznqve.jpg "pic")
+![placeholder](https://res.cloudinary.com/drgsu4lyo/image/upload/v1700460354/KakaoTalk_20231105_135830189_05_ychxtj.jpg "pic")
+
 
 [Google Play Store](https://play.google.com/store/apps/details?id=com.sjdev.wheretogo)
 
